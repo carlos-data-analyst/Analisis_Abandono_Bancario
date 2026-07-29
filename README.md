@@ -3,7 +3,7 @@ En este proyecto se explora un problema común en cualquier sector, el abandono 
 El análisis se ha documentado por completo en el archivo .ipynb. Se añade desde la obtención de los datos hasta las sugerencias para minimizar la problemática.
 Adicionalmente se adjunta una presentación ejecutiva en formato .pdf, además del set de datos.
 
-Durante el proyecto se ha trabajando con python y el framework sklearn, explorado con tres modelos de Machine Learning:
+Durante el proyecto se ha trabajando con python y el framework sklearn para usar técnicas Machine Learning, explorando con tres modelos:
 -Regresión logística
 -Bosque aleatorio
 -XGBoost
