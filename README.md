@@ -1,9 +1,10 @@
 En este proyecto se explora un problema común en cualquier sector, el abandono por parte de clientes. En este caso específico se explora el tema desde la perspectiva bancaria.
 
-El análisis se ha documentado por completo en el archivo .ipynb. Se añade desde la obtención de los datos hasta las sugerencias para minimizar la problemática.
-Adicionalmente se adjunta una presentación ejecutiva en formato .pdf, además del set de datos.
+El análisis se ha documentado por completo en el archivo ".ipynb." que se encuentra dentro de la carpeta Notebook de desarrollo. Se añade el paso a paso del análisis desde la obtención de los datos hasta las sugerencias para minimizar la problemática.
 
-Durante el proyecto se ha trabajando con python y el framework sklearn para usar técnicas Machine Learning, explorando con tres modelos:
+Adicionalmente se adjunta una presentación ejecutiva en formato .pdf, además del set de datos en formato xlsx.
+
+Durante el proyecto se ha trabajando con python y el framework sklearn usando técnicas Machine Learning, explorando resultados con tres modelos:
 -Regresión logística
 -Bosque aleatorio
 -XGBoost
